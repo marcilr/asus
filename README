@@ -5,5 +5,11 @@ Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+docs/
+  Documentation
+
 index.html
   Asus laptop
+
+pdf/
+  Portable document format files
